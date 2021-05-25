@@ -13,6 +13,10 @@ body {
   color: #272829;
 }
 
+#header a {
+    text-decoration: none;
+}
+
 a {
   color: #149ddd;
 }
